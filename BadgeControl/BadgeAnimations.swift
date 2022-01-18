@@ -5,7 +5,7 @@
 //  Created by Robin Krenecky on 21.08.17.
 //
 
-import Foundation
+import UIKit
 
 public typealias BadgeAnimation = (UIView) -> Void
 
